@@ -25,13 +25,6 @@ public class ResourceFruit {
         // CDI
     }
 
-    /**
-     * Los metodos hello() y list()
-     * negocian con el content-type del header
-     * de la peticion http
-     * hello -> content-type text
-     * list() -> content application/json
-     */
     
     @GET
     @Consumes(MediaType.TEXT_PLAIN)

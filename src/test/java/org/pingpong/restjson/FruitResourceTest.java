@@ -27,12 +27,6 @@ import javax.ws.rs.core.MediaType;
 @QuarkusTest
 public class FruitResourceTest {
 
-    /**
-     * give
-     * expect
-     * when
-     * es la sintaxis legacy REST assured 1.x
-     */
 
     @Test
     public void testHelloEndpoint() {
