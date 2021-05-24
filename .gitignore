@@ -39,3 +39,4 @@ nb-configuration.xml
 .env
 /apuntes.txt
 /javax/*
+/lib
