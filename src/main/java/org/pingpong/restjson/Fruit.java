@@ -40,7 +40,9 @@ public class Fruit extends PanacheEntity {
     public void setName(String name) {
         this.name = name;
     }
-
+    public String getDescription() {
+        return this.description;
+    }
     /*
     // substituit getName por este metodo en
     // la serializacion a JSON
