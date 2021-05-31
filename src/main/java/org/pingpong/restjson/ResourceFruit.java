@@ -33,7 +33,7 @@ public class ResourceFruit {
     // curl -w "\n" http://localhost:8080/fruits/ 
     // -H "Content-Type: application/x-www-form-urlencoded"
     public String hello() {
-        return "Colmados Farmer Rick";
+        return "Holi caracoli :)";
     }
 
     @GET
